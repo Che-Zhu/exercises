@@ -1,0 +1,25 @@
+
+
+body {
+    font-family: helvetica;
+}
+
+h1 {
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./requirements/pattern.jpeg");
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
