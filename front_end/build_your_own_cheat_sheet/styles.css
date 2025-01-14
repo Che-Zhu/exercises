@@ -1,0 +1,35 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Public Sans', sans-serif;
+    background-color: cornsilk;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    color: forestgreen;
+}
+
+table {
+    margin: 0 auto;
+    border: 2px solid forestgreen;
+    width: 650px;
+}
+
+table th {
+    background-color: lightgreen;
+}
+
+table td {
+    border-top: 1px solid forestgreen;
+}
+
+table .code {
+    font-family: monospace;
+    background-color: navajowhite;
+}
